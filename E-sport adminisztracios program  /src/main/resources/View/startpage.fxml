@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.StartPage">
+   <children>
+      <Button fx:id="profil" layoutX="226.0" layoutY="104.0" mnemonicParsing="false" onAction="#profilClick" text="Profil megtekintése" textAlignment="CENTER">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+      </Button>
+      <Button fx:id="search" layoutX="228.0" layoutY="148.0" mnemonicParsing="false" onAction="#searchingClick" text="Keresés" textAlignment="CENTER" />
+      <Button fx:id="news" layoutX="228.0" layoutY="198.0" mnemonicParsing="false" onAction="#newsClick" text="Hírfolyam" textAlignment="CENTER" />
+      <Button fx:id="add" layoutX="229.0" layoutY="285.0" mnemonicParsing="false" text="Új játékos felvétele" textAlignment="CENTER" />
+      <Button fx:id="entries" layoutX="228.0" layoutY="243.0" mnemonicParsing="false" text="Versenyek" textAlignment="CENTER" />
+      <Button fx:id="exit" layoutX="14.0" layoutY="351.0" mnemonicParsing="false" text="Kilépés" />
+   </children>
+</AnchorPane>

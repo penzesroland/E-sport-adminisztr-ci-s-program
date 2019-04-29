@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.UpdateProfile">
+   <children>
+      <Label layoutX="14.0" layoutY="31.0" text="E-mail cím:" />
+      <TextField fx:id="emailtxt" layoutX="120.0" layoutY="26.0" />
+      <Label layoutX="14.0" layoutY="64.0" text="Nicknév:" />
+      <TextField fx:id="nicktxt" layoutX="316.0" layoutY="59.0" />
+      <ChoiceBox fx:id="nickcb" layoutX="120.0" layoutY="59.0" prefHeight="26.0" prefWidth="171.0" />
+      <Label layoutX="14.0" layoutY="99.0" text="Meglévő csapat törlése a listából:" />
+      <ChoiceBox fx:id="teamcb" layoutX="316.0" layoutY="94.0" prefHeight="26.0" prefWidth="171.0" />
+      <Button fx:id="teamdelbtn" layoutX="510.0" layoutY="94.0" mnemonicParsing="false" onAction="#delteamClick" prefHeight="26.0" prefWidth="69.0" text="Törlés" />
+      <Label layoutX="14.0" layoutY="134.0" text="Új csapat neve:" />
+      <TextField fx:id="teamtxt" layoutX="120.0" layoutY="129.0" prefHeight="26.0" prefWidth="171.0" />
+      <Button fx:id="emailbtn" layoutX="508.0" layoutY="26.0" mnemonicParsing="false" onAction="#emailClick" text="Módosít" />
+      <Button fx:id="nickbtn" layoutX="510.0" layoutY="59.0" mnemonicParsing="false" onAction="#nickClick" text="Módosít" />
+      <Button fx:id="teamaddbtn" layoutX="508.0" layoutY="129.0" mnemonicParsing="false" onAction="#addteamClick" text="Hozzáad" />
+      <Label layoutX="14.0" layoutY="173.0" text="Új játék neve:" />
+      <TextField fx:id="gametxt" layoutX="120.0" layoutY="168.0" prefHeight="26.0" prefWidth="171.0" />
+      <Button fx:id="gameaddbtn" layoutX="510.0" layoutY="168.0" mnemonicParsing="false" onAction="#addgameClick" text="Hozzáad" />
+      <Label layoutX="14.0" layoutY="205.0" text="Meglévő játék törlése a listából:" />
+      <ChoiceBox fx:id="gamecb" layoutX="320.0" layoutY="200.0" prefHeight="26.0" prefWidth="171.0" />
+      <Button fx:id="gamedelbtn" layoutX="514.0" layoutY="200.0" mnemonicParsing="false" onAction="#delgameClick" prefHeight="26.0" prefWidth="69.0" text="Törlés" />
+      <Button fx:id="update" layoutX="537.0" layoutY="360.0" mnemonicParsing="false" onAction="#updateClick" text="Kész" />
+      <Button layoutX="12.0" layoutY="360.0" mnemonicParsing="false" text="Vissza" />
+   </children>
+</AnchorPane>

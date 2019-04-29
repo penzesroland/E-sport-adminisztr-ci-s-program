@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="341.0" prefWidth="489.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.Team">
+   <children>
+      <Label layoutX="50.0" layoutY="43.0" text="Csapatnév:" />
+      <Label fx:id="teamnamelbl" layoutX="155.0" layoutY="42.0" text="Csapatnév" />
+      <Label layoutX="50.0" layoutY="83.0" text="Játék neve:" />
+      <Label fx:id="gamenamelbl" layoutX="155.0" layoutY="82.0" text="Játéknév" />
+      <Label layoutX="50.0" layoutY="116.0" text="Csapatvezető:" />
+      <Label fx:id="leaderlbl" layoutX="155.0" layoutY="115.0" text="Csapatvezetőnév" />
+      <Label layoutX="50.0" layoutY="163.0" text="Csapattagok:" />
+      <ListView fx:id="memberslv" layoutX="145.0" layoutY="163.0" prefHeight="140.0" prefWidth="294.0" />
+      <Button layoutX="19.0" layoutY="303.0" mnemonicParsing="false" text="Vissza" />
+   </children>
+</AnchorPane>

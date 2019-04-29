@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="397.0" prefWidth="650.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.Searching">
+   <children>
+      <Button fx:id="szuroGomb" layoutX="533.0" layoutY="58.0" mnemonicParsing="false" onAction="#szures" text="Keresés" />
+      <ChoiceBox fx:id="type" layoutX="303.0" layoutY="58.0" prefWidth="150.0" />
+      <TextField fx:id="search" layoutX="66.0" layoutY="58.0" />
+      <Label layoutX="66.0" layoutY="36.0" text="Keresett név" />
+      <Label layoutX="303.0" layoutY="36.0" text="Keresés típusa" />
+      <Label layoutX="66.0" layoutY="119.0" text="Találatok:" />
+      <ListView fx:id="result" layoutX="66.0" layoutY="140.0" prefHeight="200.0" prefWidth="538.0" style="-fx-border-width: 20;" />
+      <Button fx:id="detail" layoutX="559.0" layoutY="357.0" mnemonicParsing="false" onAction="#detailsClick" text="Részletez" />
+      <Button fx:id="back" layoutX="14.0" layoutY="357.0" mnemonicParsing="false" text="Vissza" />
+   </children>
+</AnchorPane>

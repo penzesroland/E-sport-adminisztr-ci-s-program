@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="473.0" prefWidth="655.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.NewsDelete">
+   <children>
+      <Label layoutX="31.0" layoutY="38.0" text="Szerző:" />
+      <Label fx:id="authorlbl" layoutX="204.0" layoutY="38.0" text="Szerző neve" />
+      <Label layoutX="31.0" layoutY="61.0" text="Készítés ideje:" />
+      <Label fx:id="createdlbl" layoutX="204.0" layoutY="61.0" text="Készítés dátuma" />
+      <Label layoutX="31.0" layoutY="84.0" text="Kapcsolódó játék neve:" />
+      <Label fx:id="gamelbl" layoutX="204.0" layoutY="84.0" text="Játék név" />
+      <Label layoutX="31.0" layoutY="110.0" text="Kapcsolódó csapat neve:" />
+      <Label fx:id="teamlbl" layoutX="204.0" layoutY="110.0" text="Csapat név" />
+      <Label layoutX="31.0" layoutY="135.0" text="Hír típusa:" />
+      <Label fx:id="typelbl" layoutX="204.0" layoutY="135.0" text="Típus" />
+      <Label layoutX="31.0" layoutY="158.0" text="Hír címe:" />
+      <Label fx:id="titlelbl" layoutX="204.0" layoutY="158.0" text="Cím" />
+      <TextArea fx:id="content" editable="false" layoutX="30.0" layoutY="210.0" prefHeight="200.0" prefWidth="428.0" />
+      <Label layoutX="31.0" layoutY="187.0" text="Hír szövege:" />
+      <Button fx:id="visszabtn" layoutX="14.0" layoutY="433.0" mnemonicParsing="false" onAction="#visszaClick" text="Vissza" />
+      <Button fx:id="torolbtn" layoutX="564.0" layoutY="433.0" mnemonicParsing="false" onAction="#deleteClick" text="Hír törlése" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="402.0" prefWidth="584.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.Player">
+   <children>
+      <Label layoutX="38.0" layoutY="26.0" text="Név:" />
+      <Label layoutX="122.0" layoutY="26.0" text="Teljes név" />
+      <Label layoutX="38.0" layoutY="53.0" text="Nickname:" />
+      <Label layoutX="122.0" layoutY="53.0" text="Nickname" />
+      <Label layoutX="38.0" layoutY="79.0" text="E-mail:" />
+      <Label layoutX="122.0" layoutY="79.0" text="E-mail cím" />
+      <Label layoutX="36.0" layoutY="106.0" text="Csapatnevek:" />
+      <Label layoutX="122.0" layoutY="106.0" text="Csapatnév" />
+      <Label layoutX="38.0" layoutY="134.0" prefHeight="16.0" prefWidth="57.0" text="Játékok:" />
+      <ListView layoutX="36.0" layoutY="154.0" prefHeight="116.0" prefWidth="327.0" />
+   </children>
+</AnchorPane>
