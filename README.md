@@ -1,1 +1,1 @@
-# E-sport-adminisztr-ci-s-program
+# E-sport adminisztracios program 
