@@ -13,7 +13,7 @@
       </Button>
       <Button fx:id="search" layoutX="228.0" layoutY="148.0" mnemonicParsing="false" onAction="#searchingClick" text="Keresés" textAlignment="CENTER" />
       <Button fx:id="news" layoutX="228.0" layoutY="198.0" mnemonicParsing="false" onAction="#newsClick" text="Hírfolyam" textAlignment="CENTER" />
-      <Button fx:id="add" layoutX="229.0" layoutY="285.0" mnemonicParsing="false" text="Új játékos felvétele" textAlignment="CENTER" />
+      <Button fx:id="add" layoutX="229.0" layoutY="285.0" mnemonicParsing="false" onAction="#addClick" text="Új játékos felvétele" textAlignment="CENTER" />
       <Button fx:id="entries" layoutX="228.0" layoutY="243.0" mnemonicParsing="false" text="Versenyek" textAlignment="CENTER" />
       <Button fx:id="exit" layoutX="14.0" layoutY="351.0" mnemonicParsing="false" text="Kilépés" />
    </children>

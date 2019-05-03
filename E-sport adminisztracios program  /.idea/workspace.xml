@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Szakdolgozat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Szakdolgozat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/addplayer.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/addplayer.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/View/startpage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View/startpage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/AddPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/AddPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/NewsDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/NewsDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Profile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Profile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Searching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/Searching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/StartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/StartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/UpdateProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Szakdoga/Controller/UpdateProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/addplayer.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/addplayer.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/allentries.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/allentries.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/news.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/news.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/profile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/profile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/search.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/search.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/startpage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/startpage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/View/updateProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/View/updateProfile.fxml" afterDir="false" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -135,6 +160,37 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-973296049">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1327" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1327" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fxml" value="2" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
@@ -144,23 +200,69 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="90" column="45" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+            <state relative-caret-position="210">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1607#1625#0" expanded="true" />
+                <element signature="e#1701#1707#0" expanded="true" />
+                <element signature="e#2879#2887#0" expanded="true" />
+                <element signature="e#2935#2943#0" expanded="true" />
+                <element signature="e#4118#4126#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/View/updateProfile.fxml">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/UpdateProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1535">
+              <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#backClick#0;class#UpdateProfile#0" />
+                <element signature="method#nickClick#0;class#UpdateProfile#0" />
+                <element signature="method#delteamClick#0;class#UpdateProfile#0" />
+                <element signature="method#addteamClick#0;class#UpdateProfile#0" />
+                <element signature="method#updateTeam#0;class#UpdateProfile#0" />
+                <element signature="method#searchTeam#0;class#UpdateProfile#0" />
+                <element signature="method#addgameClick#0;class#UpdateProfile#0" />
+                <element signature="method#searchGame#0;class#UpdateProfile#0" />
+                <element signature="method#delgameClick#0;class#UpdateProfile#0" />
+                <element signature="method#emailClick#0;class#UpdateProfile#0" />
+                <element signature="method#initdata#0;class#UpdateProfile#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/StartPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/View/addplayer.fxml">
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
           <provider editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="173" selection-start-line="10" selection-start-column="173" selection-end-line="10" selection-end-column="173" />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
@@ -179,6 +281,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -214,12 +319,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/View/entry.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/View/game.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/View/login.fxml" />
-        <option value="$PROJECT_DIR$/src/main/resources/View/startpage.fxml" />
         <option value="$PROJECT_DIR$/src/main/resources/View/team.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/Team.java" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Model/PlayerGameDetail.java" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Model/Player.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/StartPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/View/profile.fxml" />
@@ -234,6 +337,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/View/allentries.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/Entry.java" />
         <option value="$PROJECT_DIR$/src/main/resources/View/addplayer.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/View/startpage.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java" />
       </list>
     </option>
   </component>
@@ -256,11 +361,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="545" />
-    <option name="y" value="120" />
-    <option name="width" value="821" />
-    <option name="height" value="648" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -274,38 +380,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Szakdoga" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -313,15 +419,15 @@
               <item name="Controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Szakdolgozat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Szakdolgozat" type="462c0819:PsiDirectoryNode" />
+              <item name="E-sport adminisztracios program  " type="b2602c69:ProjectViewProjectNode" />
+              <item name="E-sport adminisztracios program  " type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -344,10 +450,10 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556501034729" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556877661011" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Szakdoga/View" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
@@ -509,11 +615,12 @@
       <workItem from="1556459884479" duration="272000" />
       <workItem from="1556474040393" duration="20534000" />
       <workItem from="1556504261569" duration="16000" />
+      <workItem from="1556872524522" duration="5122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158068000" />
+    <option name="totallyTimeSpent" value="163190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,9 +632,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.16175298" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.23266932" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,18 +643,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15479876" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3167702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3498452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32919255" />
       <window_info anchor="bottom" id="Problems" order="9" />
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" weight="0.32972136" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32972136" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32919255" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="15" weight="0.32972136" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -564,6 +671,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1154,28 +1287,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/game.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/newsdelete.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/player.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1185,20 +1318,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/login.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="130" selection-start-line="13" selection-start-column="130" selection-end-line="13" selection-end-column="130" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/View/startpage.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Model/PlayerGameDetail.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1232,46 +1357,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/profile.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/View/updateProfile.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/UpdateProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <element signature="method#backClick#0;class#UpdateProfile#0" />
-            <element signature="e#6770#6776#0" expanded="true" />
-            <element signature="method#nickClick#0;class#UpdateProfile#0" />
-            <element signature="method#delteamClick#0;class#UpdateProfile#0" />
-            <element signature="method#addteamClick#0;class#UpdateProfile#0" />
-            <element signature="method#updateTeam#0;class#UpdateProfile#0" />
-            <element signature="method#searchTeam#0;class#UpdateProfile#0" />
-            <element signature="method#addgameClick#0;class#UpdateProfile#0" />
-            <element signature="method#searchGame#0;class#UpdateProfile#0" />
-            <element signature="method#delgameClick#0;class#UpdateProfile#0" />
-            <element signature="method#emailClick#0;class#UpdateProfile#0" />
-            <element signature="method#initdata#0;class#UpdateProfile#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/StartPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1283,12 +1372,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/search.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="101" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/Game.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1298,12 +1387,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/team.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="167" selection-start-line="7" selection-start-column="167" selection-end-line="7" selection-end-column="167" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/Team.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1313,12 +1402,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/news.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/News.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1344,12 +1433,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/allentries.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="157" selection-start-line="8" selection-start-column="157" selection-end-line="8" selection-end-column="157" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AllEntries.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1366,12 +1455,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/entry.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/Entry.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1380,23 +1469,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/startpage.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/StartPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="90" column="45" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="202">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/View/addplayer.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="173" selection-start-line="10" selection-start-column="173" selection-end-line="10" selection-end-column="173" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/View/updateProfile.fxml">
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/UpdateProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1535">
+          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#backClick#0;class#UpdateProfile#0" />
+            <element signature="method#nickClick#0;class#UpdateProfile#0" />
+            <element signature="method#delteamClick#0;class#UpdateProfile#0" />
+            <element signature="method#addteamClick#0;class#UpdateProfile#0" />
+            <element signature="method#updateTeam#0;class#UpdateProfile#0" />
+            <element signature="method#searchTeam#0;class#UpdateProfile#0" />
+            <element signature="method#addgameClick#0;class#UpdateProfile#0" />
+            <element signature="method#searchGame#0;class#UpdateProfile#0" />
+            <element signature="method#delgameClick#0;class#UpdateProfile#0" />
+            <element signature="method#emailClick#0;class#UpdateProfile#0" />
+            <element signature="method#initdata#0;class#UpdateProfile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Szakdoga/Controller/AddPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#1607#1625#0" expanded="true" />
+            <element signature="e#1701#1707#0" expanded="true" />
+            <element signature="e#2879#2887#0" expanded="true" />
+            <element signature="e#2935#2943#0" expanded="true" />
+            <element signature="e#4118#4126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

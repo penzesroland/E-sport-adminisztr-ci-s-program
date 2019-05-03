@@ -23,11 +23,17 @@
       <Button fx:id="teamaddbtn" layoutX="508.0" layoutY="129.0" mnemonicParsing="false" onAction="#addteamClick" text="Hozzáad" />
       <Label layoutX="14.0" layoutY="173.0" text="Új játék neve:" />
       <TextField fx:id="gametxt" layoutX="120.0" layoutY="168.0" prefHeight="26.0" prefWidth="171.0" />
-      <Button fx:id="gameaddbtn" layoutX="510.0" layoutY="168.0" mnemonicParsing="false" onAction="#addgameClick" text="Hozzáad" />
-      <Label layoutX="14.0" layoutY="205.0" text="Meglévő játék törlése a listából:" />
-      <ChoiceBox fx:id="gamecb" layoutX="320.0" layoutY="200.0" prefHeight="26.0" prefWidth="171.0" />
-      <Button fx:id="gamedelbtn" layoutX="514.0" layoutY="200.0" mnemonicParsing="false" onAction="#delgameClick" prefHeight="26.0" prefWidth="69.0" text="Törlés" />
+      <Button fx:id="gameaddbtn" layoutX="514.0" layoutY="242.0" mnemonicParsing="false" onAction="#addgameClick" text="Hozzáad" />
+      <Label layoutX="16.0" layoutY="281.0" text="Meglévő játék törlése a listából:" />
+      <ChoiceBox fx:id="gamecb" layoutX="322.0" layoutY="276.0" prefHeight="26.0" prefWidth="171.0" />
+      <Button fx:id="gamedelbtn" layoutX="516.0" layoutY="276.0" mnemonicParsing="false" onAction="#delgameClick" prefHeight="26.0" prefWidth="69.0" text="Törlés" />
       <Button fx:id="update" layoutX="537.0" layoutY="360.0" mnemonicParsing="false" onAction="#updateClick" text="Kész" />
-      <Button layoutX="12.0" layoutY="360.0" mnemonicParsing="false" text="Vissza" />
+      <Button fx:id="backbtn" layoutX="12.0" layoutY="360.0" mnemonicParsing="false" onAction="#backClick" text="Vissza" />
+      <Label layoutX="16.0" layoutY="213.0" text="Játékbeli név:" />
+      <TextField fx:id="gameigntxt" layoutX="122.0" layoutY="208.0" prefHeight="26.0" prefWidth="171.0" />
+      <Label layoutX="16.0" layoutY="247.0" text="Csapat szerep:" />
+      <TextField fx:id="gameroletxt" layoutX="122.0" layoutY="242.0" prefHeight="26.0" prefWidth="171.0" />
+      <ChoiceBox fx:id="gameteamcb" layoutX="322.0" layoutY="242.0" prefHeight="26.0" prefWidth="171.0" />
+      <Label layoutX="322.0" layoutY="213.0" text="Csapat kiválasztása:" />
    </children>
 </AnchorPane>

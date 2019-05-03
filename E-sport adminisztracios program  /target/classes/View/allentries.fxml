@@ -9,7 +9,7 @@
 <AnchorPane prefHeight="466.0" prefWidth="651.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Szakdoga.Controller.AllEntries">
    <children>
       <ListView fx:id="entrieslv" layoutX="23.0" layoutY="196.0" prefHeight="200.0" prefWidth="552.0" />
-      <Button layoutX="272.0" layoutY="60.0" mnemonicParsing="false" text="Részletek megtekintése" />
+      <Button fx:id="choosebtn" layoutX="272.0" layoutY="60.0" mnemonicParsing="false" text="Részletek megtekintése" />
       <ChoiceBox fx:id="entrycb" layoutX="23.0" layoutY="60.0" prefHeight="26.0" prefWidth="234.0" />
       <Label layoutX="23.0" layoutY="172.0" text="Versenyeim" />
       <Label layoutX="23.0" layoutY="37.0" text="Kiválasztott verseny" />
